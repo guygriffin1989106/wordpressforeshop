@@ -1,16 +1,6 @@
 Grocery Store Free Woocommerce Theme 
 ========================================
 
-<br/>
-<h4><a href="https://athemeart.com/demo/grocery-store/" target="_blank">Live Demo 1</a>  |   
-<a href="https://athemeart.com/docs/wordpress-woocommerce-theme-docs/" target="_blank">Documentation</a> </h4>
-<br/>
-
-<a href="https://athemeart.com/downloads/grocerystore-wordpress-woocommerce-theme/" target="_blank"><img src="https://athemeart.com/wp-content/uploads/edd/2020/09/grocery-store-free-woocommerce-theme.jpg" alt="Wordpress Woocommerce theme"></a>
-
-Here is the new multipurpose <a href="https://athemeart.com/downloads/grocerystore-wordpress-woocommerce-theme/" target="_blank">Wordpress Woocommerce theme</a> named Grocery-Store theme. It's built with the most recent technology and passed the WordPress and WooCommerce standards qualification. Plus, its sorted by advanced features and plenty of options to customize the whole theme.
-
-So, do you need a <a href="https://athemeart.com/downloads/grocery-store-free-woocommerce-theme/" target="_blank">free WooCommerce theme</a>? Or, need a new multipurpose WordPress WooCommerce theme for your online WordPress store? Where you can customize the whole theme like top to bottom. Look no further! just watch the Grocery-Store theme demos.
 
 First of all, the theme is dedicately create for any kind of or multipurpose online WordPress store purposes. For instance, you can use the theme for fashion, sport, technology, furniture, beauty, health, or any WordPress store. Besides, this store theme will display more attractively on your device or screen because of its responsiveness design.
 
